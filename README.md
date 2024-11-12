@@ -1,4 +1,4 @@
-## Minor Project 1 - Data Analysis of Ambuvians Healthcare
+# Minor Project 1 - Data Analysis of Ambuvians Healthcare
 This presents the minor project conducted using real-time data from Ambuvians Healthcare, a startup focused on health-related products and services. The project involved cleaning the dataset, performing various analyses, and visualizing the findings using graphs and charts. Below, I address the specific analytical questions posed by the project and summarize the results derived from the dataset.
 
 # 6.1 Data Cleaning and Preparation
